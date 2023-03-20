@@ -1,0 +1,15 @@
+
+    .btn.btn-success {
+        --bs-btn-color: #fff;
+        --bs-btn-bg: #a34078;
+        --bs-btn-border-color: #a34078;
+        --bs-btn-hover-color: #fff;
+        --bs-btn-hover-bg: #b14582;
+        --bs-btn-hover-border-color: #b14582;
+    }
+    
+    .card img{
+        border-radius: 50%;
+    }
+
+    

@@ -1,0 +1,35 @@
+#banner{
+width:auto;height: 150px;
+background-color: #40E0D0;
+margin-top: 15px;padding: 30px;
+text-align: center;
+font-size: 35px;
+color: white;
+}
+
+nav{
+    background-color: gray;
+    height: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color: pink;
+    padding: 6px;
+    border-radius: 4px;
+    margin-top: 5px;
+    }
+
+    a:hover{
+        background-color: purple;
+        padding: 10px;
+}
+  
+.footer{
+    padding: 10px;
+    text-align: center;
+    font-size: 10px;
+    background-color: #ccc;
+}
